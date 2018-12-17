@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fastening_Exercise", "Fastening_Exercise\Fastening_Exercise.csproj", "{79B69F43-C812-4EE1-9158-ADC3BE532DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B69F43-C812-4EE1-9158-ADC3BE532DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B69F43-C812-4EE1-9158-ADC3BE532DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B69F43-C812-4EE1-9158-ADC3BE532DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B69F43-C812-4EE1-9158-ADC3BE532DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F8BF00-EBF7-40FC-BE61-D9F8C3B6BEC5}
+	EndGlobalSection
+EndGlobal
